@@ -20,22 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Rio Cartoon
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Foi feita a utilização de três I.A´s diferentes de construção de imagens para gerar representações do Rio de Janeiro em modelo cartoon.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram utilizadas as seguintes I.A´s: Canvas, Germine, e Leonardo.AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Para cada I.A a mesma frase foi utilizada "Rio de Janeiro cartoon", e escolhidas as melhores imagens de cada uma.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado temos as seguintes imagens e suas respectivas I.A´s:
+
+Canvas:![Screenshot_112](https://github.com/user-attachments/assets/1cd5856f-bf0f-4dd0-924e-40c0bf692b1e)
+Gemine:![Gemini_Generated_Image_1brrv91brrv91brr](https://github.com/user-attachments/assets/4514dccb-0c84-49de-b3d6-59c90a440cc5)
+Leonardo.AI: ![Screenshot_113](https://github.com/user-attachments/assets/1793b38c-0b62-4407-b061-646d9d08d733)
+
+
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É possivel perceber que cada vez mais a inteligencia artificial melhora no quesito artistico e como cada uma tem um estilo diferente de criação. Claro ambos ainda tem alguns defeitos como a criação de rostos e dedos das mãos.
 ```
 
 ### Exemplos e Insigths
